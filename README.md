@@ -74,9 +74,10 @@ Soy un profesional técnico con una sólida formación híbrida. Comencé mi cam
       <p><strong>App de registro de sueños con IA</strong></p>
       <p>Desarrollada en .NET MAUI. Integra Llama 3 y Gemini para interpretar sueños, generar imágenes y gamificar la experiencia.</p>
       <a href="https://github.com/JulioMV23/Morpheia">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q.../giphy.gif" alt="Demo Morpheia" width="100%"/>
+        <img src="https://github.com/JulioMV23/JulioMV23/blob/main/GifMorpheia.gif?raw=true" alt="Morpheia" width="100%"/>
         <br />
         <b>Ver Repositorio</b>
+        <br />
       </a>
     </td>
     <td width="50%" align="center">
@@ -84,9 +85,10 @@ Soy un profesional técnico con una sólida formación híbrida. Comencé mi cam
       <p><strong>Juego de cartas cooperativo</strong></p>
       <p>Implementación en Java con interfaz gráfica. Gestión de lógica de combate, mazos y enemigos visuales.</p>
       <a href="https://github.com/JulioMV23/RegicideGrafico_JulioMalpica">
-        <img src="https://media.giphy.com/media/your-regicide-gif-here/giphy.gif" alt="Demo Regicide" width="100%"/>
+        <img src="https://github.com/JulioMV23/JulioMV23/blob/main/GifRegicide.gif?raw=true" alt="Regicide" width="100%"/>
         <br />
         <b>Ver Repositorio</b>
+        <br />
       </a>
     </td>
   </tr>
