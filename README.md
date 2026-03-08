@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <a href="mailto:juliomalpil@gmail.com">
+  <a href="mailto:juliodmalpicav@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/julio-malpica-333086370/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
