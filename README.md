@@ -21,7 +21,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un profesional técnico con una sólida formación híbrida. Comencé mi camino gestionando **hardware y redes**, y he evolucionado hacia el **desarrollo de software**, lo que me permite tener una visión completa de la infraestructura tecnológica.
+Soy un profesional técnico con una sólida formación híbrida. Inscrito en el Sistema Nacional de Garantía Juvenil. Comencé mi camino gestionando **hardware y redes**, y he evolucionado hacia el **desarrollo de software**, lo que me permite tener una visión completa de la infraestructura tecnológica.
 
 * 🎓 **Formación:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (2023-2025) | Técnico en Sistemas Microinformáticos y Redes (2021-2023)
 * 💼 **Experiencia:** He colaborado en empresas como **aiFile** y **Tecnobit - Grupo Oesia**, trabajando en arquitectura TIC y desarrollo.
