@@ -53,7 +53,7 @@ Soy un **Desarrollador Fullstack & Multiplataforma** con una sólida formación 
 
 **Bases de Datos, Cloud & BaaS**
 <p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&clockColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -79,18 +79,6 @@ Soy un **Desarrollador Fullstack & Multiplataforma** con una sólida formación 
 ---
 
 ### 🚀 Proyectos Destacados
-
-<!-- WIDGETS: Tarjetas de Repositorios en Tiempo Real -->
-<div align="center">
-  <a href="https://github.com/JulioMV23/Morpheia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioMV23&repo=Morpheia&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/JulioMV23/RegicideGrafico_JulioMalpica">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulioMV23&repo=RegicideGrafico_JulioMalpica&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<br/>
 
 <table>
   <!-- Fila 1: Proyectos en Progreso (Móvil) -->
@@ -123,21 +111,21 @@ Soy un **Desarrollador Fullstack & Multiplataforma** con una sólida formación 
       <a href="https://github.com/JulioMV23"><b>Ver Repositorio</b></a>
     </td>
   </tr>
-  <!-- Fila 3: Morpheia y Regicide Gráfico con sus previews en vídeo -->
+  <!-- Fila 3: Morpheia y Regicide Gráfico (Visuales originales restaurados) -->
   <tr>
     <td width="50%" align="center" valign="top">
       <h3>🌙 Morpheia</h3>
-      <p><strong>Diario de sueños gamificado con IA</strong></p>
-      <p>Procesamiento onírico mediante LLMs (Gemini y Llama 3) para puntuar emociones y generar reflexiones diarias. Sincronización cloud y base de datos local SQLite.</p>
-      <video src="https://github.com/JulioMV23/JulioMV23/raw/main/Morpheia.mp4" width="100%" autoplay loop muted playsinline></video>
+      <p><strong>App de registro de sueños con IA</strong></p>
+      <p>Desarrollada en .NET MAUI. Integra Llama 3 y Gemini para interpretar sueños, generar imágenes y gamificar la experiencia.</p>
+      <img src="https://github.com/JulioMV23/JulioMV23/blob/main/GifMorpheia.gif?raw=true" alt="Morpheia" width="40%"/>
       <br />
       <a href="https://github.com/JulioMV23/Morpheia"><b>Ver Repositorio</b></a>
     </td>
     <td width="50%" align="center" valign="top">
       <h3>🃏 Regicide Gráfico</h3>
-      <p><strong>Juego cooperativo en entorno de escritorio</strong></p>
-      <p>Implementación en Java (Swing) con temática de Dragon Ball. Aplicación estricta de POO avanzada, lógica de combate compleja y patrones de diseño para el control de estados.</p>
-      <video src="https://github.com/JulioMV23/JulioMV23/raw/main/Regicide.mp4" width="100%" autoplay loop muted playsinline></video>
+      <p><strong>Juego de cartas cooperativo</strong></p>
+      <p>Implementación en Java con interfaz gráfica. Gestión de lógica de combate, mazos y enemigos visuales.</p>
+      <img src="https://github.com/JulioMV23/JulioMV23/blob/main/GifRegicide.gif?raw=true" alt="Regicide" width="100%"/>
       <br />
       <a href="https://github.com/JulioMV23/RegicideGrafico_JulioMalpica"><b>Ver Repositorio</b></a>
     </td>
@@ -157,16 +145,13 @@ Soy un **Desarrollador Fullstack & Multiplataforma** con una sólida formación 
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <!-- WIDGET: Contador de visitas al perfil -->
-  <img src="https://komarev.com/ghpvc/?username=JulioMV23&color=0eb3cc&style=flat-square" alt="Visitas al perfil" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=JulioMV23&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="JulioMV23's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulioMV23&theme=tokyonight&hide_border=true&locale=es" alt="JulioMV23's Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioMV23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JulioMV23&show_icons=true&theme=tokyonight&hide_border=false&locale=es" alt="Estadísticas de Julio" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulioMV23&theme=tokyonight&hide_border=false&locale=es" alt="Racha de Julio" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioMV23&layout=compact&theme=tokyonight&hide_border=false&langs_count=6&locale=es" alt="Lenguajes más usados" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=JulioMV23&color=0eb3cc&style=flat-square" alt="Visitas" />
 </div>
 
 ---
